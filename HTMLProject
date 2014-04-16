@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+	<title>Welcome to my site!</title>
+	<meta charset="utf-8" />
+	<link href="css_rules.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+	<div id="container" style="background-image: none;">
+	<div id="banner">
+		<a href="Homepage.html"> <img src="_pictures/Main_page.jpg" width="256" height="48" alt="Main page logo" border="0"></a>
+	
+	</div>
+	<div id="nav">
+		<ul>
+			<li><a href="Homepage.html">Home</a></li>
+			<li><a href="about_us.html">About Us</a></li>
+			<li><a href="locations.html">Locations</a></li>
+			<li><a href="contact_us.html">Contact Us</a></li>
+		</ul>
+	</div>	
+	<div id="content"> 
+		<h1>Learn more about us</h1>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam a mauris sed ipsum cursus convallis hendrerit in orci. Nunc volutpat scelerisque ultricies. Curabitur non mattis turpis. Quisque vitae velit congue urna hendrerit vulputate. Aenean aliquet molestie congue. Nullam ultricies consequat cursus. Mauris nec mollis quam. Nullam hendrerit magna id sagittis varius. Etiam laoreet nibh et nulla euismod, eu dictum leo feugiat. Aliquam erat volutpat. Duis vitae tellus consectetur, dignissim tellus eget, molestie tortor. Aliquam accumsan ipsum vitae tellus ultricies, luctus venenatis sem interdum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed quis faucibus urna, nec aliquet dolor. Suspendisse potenti. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+
+		<p>Nunc tincidunt enim magna, in varius mi vulputate sit amet. Integer vitae sem sed lacus pulvinar aliquam. Vestibulum a dapibus odio, a vestibulum elit. Nulla non turpis mollis, laoreet nisi at, ullamcorper nulla. Proin id dui ut orci hendrerit varius eu nec velit. Nunc eget convallis mi, dapibus tincidunt nisl. Aliquam elementum dui non dapibus pharetra. Quisque laoreet quam diam, vel pretium tortor blandit ac. Proin bibendum gravida justo in pharetra. Pellentesque a erat sapien.</p>
+
+		<p>Quisque eget faucibus quam, vel suscipit nisl. Curabitur facilisis est purus, et tincidunt tortor rhoncus sit amet. Nulla convallis dui nec massa ornare bibendum. Sed aliquet dui vitae dui congue, non adipiscing ante imperdiet. Sed ut nisi id nulla varius fringilla sed vitae ligula. In hac habitasse platea dictumst. Integer convallis, mauris in tincidunt faucibus, leo dui lacinia nisi, in aliquam nunc leo eleifend dui. Aenean dignissim condimentum dui a porta. Duis egestas erat quis eros ultrices elementum. Maecenas mollis lorem in tortor semper, faucibus bibendum mi vulputate. Nulla auctor arcu eu dapibus molestie. Quisque sagittis eu mi eget ultrices. Sed non nisi sit amet nunc imperdiet sollicitudin sit amet eu neque.</p>
+
+		<p>Pellentesque volutpat mauris neque, non sodales elit pulvinar in. Duis sem sapien, aliquet ut volutpat sit amet, ullamcorper sit amet quam. Aliquam quis cursus tellus. Sed in eleifend metus. In feugiat bibendum nulla, quis imperdiet arcu vulputate non. Praesent id nibh adipiscing, semper tortor ac, tincidunt ante. Mauris ut diam pulvinar, tristique quam sit amet, pulvinar quam. Integer sollicitudin pretium vulputate. Vivamus sollicitudin vulputate imperdiet. Proin dictum quam tortor, at viverra justo varius vel.</p>
+
+		<p>Donec condimentum, turpis vitae condimentum semper, eros nulla semper mi, et tempor dui nunc vitae velit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam sit amet nulla porttitor, bibendum libero a, sollicitudin lacus. Integer a magna in massa fermentum adipiscing. Vestibulum posuere malesuada enim ut laoreet. Donec ante magna, varius non venenatis id, suscipit a velit. Aliquam vel pretium tellus. Fusce non consectetur leo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis vitae lobortis enim, sed posuere neque. Donec enim lacus, lacinia ut posuere ut, luctus quis ante. Maecenas adipiscing erat in urna ultricies, at condimentum turpis venenatis. Vivamus vel risus ante. Vivamus quis eros risus. </p>
+	</div>	
+	<div id="footer"> 
+	<p><a href="Homepage.html">Home</a>|<a href="about_us.html">About Us</a>| <a href="locations.html">Locations</a>| <a href="contact_us.html">Contact Us</a></p>
+		
+	<p class="copyright">&copy;<script language="JavaScript" type="text/javascript">document.write((new Date()).getFullYear());</script> Mywebsite.com All rights reserved.</p>
+	
+	</div>
+</body>
+</html>
